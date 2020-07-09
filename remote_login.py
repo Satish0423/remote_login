@@ -1,7 +1,9 @@
 import argparse
 import sys
 import os
+pip3 install paramko
 import paramiko
+pip3 install scp
 import scp
 
 
