@@ -1,7 +1,7 @@
 import argparse
 import sys
 import os
-pip3 install paramiko
+sudo pip3 install paramiko
 import paramiko
 pip3 install scp
 import scp
